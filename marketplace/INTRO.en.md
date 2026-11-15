@@ -20,7 +20,7 @@ Compare each version with the one before it.
 
 Follow the text from its first expression to the present, seeing what was added or removed at each step and how the thinking gradually changed.
 
-![Timeline comparison](https://raw.githubusercontent.com/DelmarHuang/roam-version-studio/depot-submission-2026-11-15/docs/screenshots/image1.webp)
+![Timeline comparison](https://raw.githubusercontent.com/DelmarHuang/roam-version-studio/depot-submission-2026-11-15/marketplace/screenshots/image1.webp)
 
 ### Fixed-baseline comparison
 
@@ -28,7 +28,7 @@ Choose any version as a common baseline and see how the others differ from it.
 
 This is useful for comparing drafts that explore different directions and deciding which best fits your current thinking.
 
-![Fixed-baseline comparison](https://raw.githubusercontent.com/DelmarHuang/roam-version-studio/depot-submission-2026-11-15/docs/screenshots/image2.webp)
+![Fixed-baseline comparison](https://raw.githubusercontent.com/DelmarHuang/roam-version-studio/depot-submission-2026-11-15/marketplace/screenshots/image2.webp)
 
 Added and deleted text is marked directly. You can also include child blocks in the comparison when needed.
 
@@ -40,7 +40,7 @@ You can also make a version the one currently displayed on the original page whi
 
 Direct edits save to the version you are editing. If you want to preserve its earlier wording too, create a new version first.
 
-![Continue from an existing version](https://raw.githubusercontent.com/DelmarHuang/roam-version-studio/depot-submission-2026-11-15/docs/screenshots/image3.webp)
+![Continue from an existing version](https://raw.githubusercontent.com/DelmarHuang/roam-version-studio/depot-submission-2026-11-15/marketplace/screenshots/image3.webp)
 
 ## Record why you made a change
 
@@ -53,7 +53,7 @@ Sometimes the final text does not fully explain the thinking behind it. Version 
 
 These notes are saved under the corresponding version, so you can revisit the textual changes alongside the thinking that informed them.
 
-![Revision notes](https://raw.githubusercontent.com/DelmarHuang/roam-version-studio/depot-submission-2026-11-15/docs/screenshots/image4.webp)
+![Revision notes](https://raw.githubusercontent.com/DelmarHuang/roam-version-studio/depot-submission-2026-11-15/marketplace/screenshots/image4.webp)
 
 Right-click a block bullet and choose **Version Studio…** to begin. The plugin uses Roam's native versions and editor, preserving the familiar page links, block references and outline operations.
 
